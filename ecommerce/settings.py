@@ -82,7 +82,7 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 # CORS config
 CORS_ALLOWED_ORIGINS = [
-    "http://127.0.0.1:5500",  # your frontend origin
+    "https://vinthiya-2003.github.io/Ecommerce-frontend/Ecommerce%20Frontend/index.html",  # your frontend origin
 ]
 CORS_ALLOW_ALL_ORIGINS = True
 
